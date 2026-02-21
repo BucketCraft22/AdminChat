@@ -12,7 +12,7 @@ You can find me on discord by the username: **bucketcraft**
 
 ## Permissions
 
-**`adminchat.use`**: Use the `/adminchat [message]` command or just `/adminchat` to toggle admin chat mode (/ac does the same that /adminchat is doing)
+**`adminchat.use`**: Use the `/adminchat [message]` command or just `/adminchat` to toggle admin chat mode (/ac and /adminchat are the same)
 
 
 ## Legal
