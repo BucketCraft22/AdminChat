@@ -8,7 +8,7 @@ reload-no-permission: "<dark_gray>[<gradient:#DB2F2F:#DB2F2F><bold>ADMINCHAT</bo
 help:
   - "               <dark_gray>--------- <gradient:#DB2F2F:#DB2F2F><bold>ADMINCHAT HELP</bold></gradient> ---------"
   - "          <yellow>/ac help</yellow> - Megmutatja ezt a listát"
-  - "          <yellow>/ac reload</yellow> - Újratölti a configot"
+  - "          <yellow>/ac reload</yellow> - Újratölti a konfigurációt"
   - "          <yellow>/ac <üzenet></yellow> - Üzenet küldése az admin chatbe"
   - "          <yellow>/ac</yellow> - Automatikus adminchat mód ki/be"
   - "               <dark_gray>-----------------------------------"
