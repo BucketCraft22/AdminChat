@@ -1,6 +1,6 @@
 # 🛡️ AdminChat for Velocity
 
-![Version](https://img.shields.io/badge/version-1.2-red.svg)
+![Version](https://img.shields.io/badge/version-1.0-red.svg)
 ![Platform](https://img.shields.io/badge/platform-Velocity-blue.svg)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)
 
